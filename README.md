@@ -14,7 +14,7 @@ No portfólio, destaco projetos como **PhotoVault S3** (serverless), **DSList** 
 ## 🔗 Links
 
 * **Portfólio:** [https://apduartte.github.io](https://apduartte.github.io)
-* **LinkedIn:** [https://www.linkedin.com/in/SEU\_PERFIL](https://www.linkedin.com/in/SEU_PERFIL)
+* **LinkedIn:** [https://www.linkedin.com/in/SEU\_PERFIL](https://www.linkedin.com/in/ana-paula-l-duarte/)
 * **E-mail:** SEU\_EMAIL
 
 ## 🧰 Stack
@@ -27,9 +27,12 @@ No portfólio, destaco projetos como **PhotoVault S3** (serverless), **DSList** 
 
 ## 🚀 Projetos em destaque
 
-* **DSList — Catálogo de Jogos (Spring Boot):** API REST para listas de jogos. [Repositório](https://github.com/apduartte/devsuperior-dslist)
-* **DSList — Versão de Estudos:** API REST para prática de Spring. [Repositório](https://github.com/apduartte/dslist)
-* **ScreenMach — Java (Alura):** Projeto de treinamento em Java. [Repositório](https://github.com/apduartte/screenMach)
+* **DSList — Catálogo de Jogos (Spring Boot):** API REST para listas de jogos.
+*  [Repositório](https://github.com/apduartte/devsuperior-dslist)
+* **DSList — Versão de Estudos:** API REST para prática de Spring.
+*  [Repositório](https://github.com/apduartte/dslist)
+* **ScreenMach — Java (Alura):** Projeto de treinamento em Java.
+*  [Repositório](https://github.com/apduartte/screenMach)
 
 ## ✅ O que estou buscando
 
