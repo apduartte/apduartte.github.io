@@ -1,6 +1,6 @@
 # 🌐 Portfólio – Ana Paula Luciano Duarte
 
-Sou **Engenheira de Software Back-end Júnior (PCD)**, com foco em **APIs REST**, **qualidade de código** e **cloud computing (AWS/Azure)**, atuando de forma colaborativa em **times ágeis**.
+Sou **Engenheira de Software Back-end (PCD)**, com foco em **APIs REST**, **qualidade de código** e **cloud computing (AWS/Azure)**, atuando de forma colaborativa em **times ágeis**.
 
 ---
 
