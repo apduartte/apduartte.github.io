@@ -1,0 +1,14 @@
+# Ignorar arquivos do Visual Studio
+.vs/
+*.vsidx
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos do sistema
+Thumbs.db
+*.DS_Store
+
+# Ignorar backups
+*.bak
