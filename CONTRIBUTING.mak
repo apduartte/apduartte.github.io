@@ -82,3 +82,52 @@ Atuar em projetos de **Engenharia de Software Back-end**, contribuindo para solu
 - `fix(css): corrige cor do botão de contato`  
 - `chore: adiciona .gitignore para excluir .vs/`
 
+
+- **tipo** → categoria da alteração  
+- **escopo** → parte específica do projeto (opcional)  
+- **descrição** → curta, clara e no imperativo (ex.: "adiciona", "corrige", "remove")
+
+---
+
+### Tipos principais
+- **feat** → nova funcionalidade  
+- **fix** → correção de bug  
+- **docs** → documentação (README, currículo PDF, etc.)  
+- **style** → ajustes de formatação (CSS, indentação, etc.)  
+- **refactor** → refatoração sem alterar funcionalidade  
+- **test** → inclusão ou ajuste de testes  
+- **chore** → manutenção (dependências, configs, .gitignore, etc.)
+
+---
+
+### Exemplos práticos
+- `docs: adiciona currículo em PDF`  
+- `feat(layout): adiciona seção Currículo ao site`  
+- `fix(css): corrige cor do botão de contato`  
+- `chore: adiciona .gitignore para excluir .vs/`
+
+---
+
+## ✅ Boas práticas de contribuição
+- Use mensagens de commit **curtas e no imperativo** (ex.: “adiciona”, “corrige”, “remove”).  
+- Faça commits **granulares** (um commit por alteração lógica).  
+- Revise com `git status` antes de commitar para garantir que apenas os arquivos desejados estão incluídos.  
+- Utilize branches para novas funcionalidades ou correções (ex.: `feature/curriculo`, `fix/css-botao`).  
+- Sempre mantenha o repositório atualizado com `git pull` antes de iniciar novas alterações.  
+
+---
+
+## 📂 Estrutura recomendada de branches
+- `master` → versão estável e publicada  
+- `develop` → versão em desenvolvimento  
+- `feature/*` → novas funcionalidades  
+- `fix/*` → correções de bugs  
+
+---
+
+## 🤝 Como contribuir
+1. Faça um fork do repositório.  
+2. Crie uma branch para sua alteração:  
+   ```bash
+   git checkout -b feature/nome-da-funcionalidade
+
