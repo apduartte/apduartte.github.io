@@ -55,15 +55,16 @@ Atuar em projetos de **Engenharia de Software Back-end**, contribuindo para solu
 ---
 
 ## ♿ Informação Complementar
-**Pessoa com Deficiência (PCD)** — Lei nº 8.213/91. Laudo médico disponível.
+**Pessoa com Deficiência (PCD)** — conforme Lei nº 8.213/91. Laudo médico disponível.
 
 ---
 
-## 🔗 Links
-- 📧 Email: [apduartte@uol.com.br](mailto:apduartte@uol.com.br)  
-- 🔗 LinkedIn: [linkedin.com/in/ana-paula-l-duarte](https://linkedin.com/in/ana-paula-l-duarte)  
-- 💻 GitHub: [github.com/apduartte](https://github.com/apduartte)  
-- 📄 Currículo em PDF: [ANA_PAULA_LUCIANO_PCD.pdf](ANA_PAULA_LUCIANO_PCD.pdf)
+## 🔗 Links e Portfólio
+- 🌐 **Portfólio online:** [apduartte.com.br](https://apduartte.com.br)  
+- 📄 **Currículo em PDF:** [ANA_PAULA_LUCIANO_PCD.pdf](ANA_PAULA_LUCIANO_PCD.pdf)  
+- 💻 **GitHub:** [github.com/apduartte](https://github.com/apduartte)  
+- 🔗 **LinkedIn:** [linkedin.com/in/ana-paula-l-duarte](https://linkedin.com/in/ana-paula-l-duarte)  
+- 📧 **Email:** [apduartte@uol.com.br](mailto:apduartte@uol.com.br)
 
 ---
 
