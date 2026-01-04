@@ -1,0 +1,152 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fonte e cores principais */
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  background: #f5f7fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+  background: #1a73e8;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+header p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #ffeb3b;
+}
+
+/* Seções */
+section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  font-size: 2rem;
+  color: #1a73e8;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+section h3 {
+  font-size: 1.4rem;
+  color: #444;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-left: 4px solid #1a73e8;
+  padding-left: 8px;
+}
+
+/* Listas */
+section ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+section ul li {
+  background: #f5f7fa;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+section ul li:hover {
+  background: #e8f0fe;
+}
+
+/* Links */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Botão de download */
+.btn-download {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: #1a73e8;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.btn-download:hover {
+  background: #0c5fd6;
+}
+
+/* Rodapé */
+footer {
+  background: #1a73e8;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 0.9rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  section {
+    margin: 20px;
+    padding: 15px;
+  }
+}
