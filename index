@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Ana Paula Duarte – Engenheira de Software Back-end Júnior. Especialista em APIs REST, AWS, CI/CD e times ágeis." />
+  <meta name="keywords" content="Engenharia de Software, Back-end, APIs REST, AWS, CI/CD, PCD, Ana Paula Duarte" />
+  <meta name="author" content="Ana Paula Duarte" />
+  <title>Ana Paula Duarte | Engenheira de Software</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.ico" />
+</head>
+<body>
+  <header>
+    <h1>Ana Paula Duarte</h1>
+    <p>Engenheira de Software Back-end Júnior | São Paulo – SP | PCD</p>
+    <nav>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#curriculo">Currículo</a></li>
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Sou Engenheira de Software com foco em desenvolvimento back-end, APIs REST, boas práticas de código e ambientes cloud. Tenho experiência em modernização de sistemas, automação de pipelines CI/CD e trabalho em times ágeis.</p>
+  </section>
+
+  <section id="curriculo" class="curriculo">
+    <h2>Currículo</h2>
+    <p><strong>Local:</strong> São Paulo – SP | Modelo híbrido (3x presencial)</p>
+    <p><strong>Email:</strong> <a href="mailto:apduartte@uol.com.br">apduartte@uol.com.br</a> | 
+       <strong>Telefone:</strong> (11) 97016-4186</p>
+    <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ana-paula-l-duarte" target="_blank">linkedin.com/in/ana-paula-l-duarte</a> | 
+       <strong>GitHub:</strong> <a href="https://github.com/apduartte" target="_blank">github.com/apduartte</a></p>
+
+    <h3>Objetivo</h3>
+    <p>Atuar como Engenheira de Software Back-end (Assistente/Júnior), com foco em APIs REST, qualidade de código, cloud computing e colaboração em times ágeis.</p>
+
+    <h3>Resumo Profissional</h3>
+    <p>Experiência em desenvolvimento back-end, APIs REST, Clean Code, SOLID, ambientes cloud (AWS/Azure), CI/CD e metodologias ágeis.</p>
+
+    <h3>Competências Técnicas</h3>
+    <ul>
+      <li>C#, .NET (fundamentos), Java, Spring Boot</li>
+      <li>APIs REST, Clean Code, SOLID, Code Review</li>
+      <li>AWS (EC2, RDS, S3, IAM), Azure (fundamentos)</li>
+      <li>CI/CD, Git, Infraestrutura como Código</li>
+      <li>Arquitetura distribuída, Microsserviços, Mensageria</li>
+      <li>Scrum, Kanban, Segurança da Informação, LGPD</li>
+    </ul>
+
+    <h3>Experiência Profissional</h3>
+    <p><strong>Itaú Unibanco</strong> — Engenheira de Software / Analista de Sistemas (01/2022 – 09/2025)</p>
+    <ul>
+      <li>Desenvolvimento de APIs REST</li>
+      <li>Aplicação de Clean Code e SOLID</li>
+      <li>Ambientes cloud e arquiteturas distribuídas</li>
+      <li>Automação de pipelines CI/CD</li>
+      <li>Modernização de sistemas legados</li>
+      <li>Times ágeis (Scrum/Kanban)</li>
+    </ul>
+
+    <h3>Formação</h3>
+    <ul>
+      <li>Pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity – PUC (2024)</li>
+      <li>Pós-graduação em Administração, Negócios e Marketing – FGV (2023)</li>
+      <li>Graduação em Administração</li>
+    </ul>
+
+    <h3>Cursos & Certificações</h3>
+    <ul>
+      <li>Microsoft Azure Fundamentals (AZ-900)</li>
+      <li>Integração Contínua (CI/CD)</li>
+      <li>FinOps</li>
+      <li>Técnico em Processamento de Dados</li>
+    </ul>
+
+    <h3>PCD</h3>
+    <p>Pessoa com Deficiência (PCD) — Lei nº 8.213/91. Laudo médico disponível.</p>
+
+    <p><a href="docs/Ana_Paula_Duarte_Backend_Junior_PCD.pdf" class="btn-download">📄 Baixar Currículo em PDF</a></p>
+  </section>
+
+  <section id="projetos">
+    <h2>Projetos</h2>
+    <p>Veja meus projetos no <a href="https://github.com/apduartte" target="_blank">GitHub</a>, incluindo APIs REST, microsserviços e automações em AWS.</p>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>📧 <a href="mailto:apduartte@uol.com.br">apduartte@uol.com.br</a></p>
+    <p>🔗 <a href="https://linkedin.com/in/ana-paula-l-duarte" target="_blank">LinkedIn</a></p>
+    <p>💻 <a href="https://github.com/apduartte" target="_blank">GitHub</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Ana Paula Duarte. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
