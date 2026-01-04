@@ -30,6 +30,8 @@ Atuar em projetos de **Engenharia de Software Back-end**, contribuindo para solu
 ## 💼 Experiência
 **Itaú Unibanco** — Engenheira de Software / Analista de Sistemas  
 *01/2022 – 09/2025*  
+- Iniciou como Assistente de Vendas **– Pessoa Jurídica, atuando no relacionamento com clientes empresariais**  
+- Evoluiu para áreas técnicas, **com foco em Engenharia de Software Back-end**
 - Desenvolvimento de **APIs REST**  
 - Aplicação de **Clean Code** e princípios **SOLID**  
 - Automação de pipelines **CI/CD**  
