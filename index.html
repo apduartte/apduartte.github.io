@@ -1,148 +1,293 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ana Paula Duarte | Engenheira de Software Back-end</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #1f2937;
-    }
-    h1, h2 {
-      color: #111827;
-    }
-    .tag {
-      display: inline-block;
-      background: #e5e7eb;
-      padding: 4px 10px;
-      margin: 4px 6px 4px 0;
-      border-radius: 6px;
-      font-size: 14px;
-    }
-    a {
-      color: #2563eb;
-      text-decoration: none;
-      font-weight: 600;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .buttons a {
-      display: inline-block;
-      margin: 10px 12px 10px 0;
-      padding: 10px 16px;
-      border-radius: 6px;
-      background: #2563eb;
-      color: white;
-    }
-    .buttons a.secondary {
-      background: #374151;
-    }
-    section {
-      margin-top: 40px;
-    }
-    footer {
-      margin-top: 60px;
-      font-size: 14px;
-      color: #6b7280;
-    }
-  </style>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Ana Paula Duarte | Cloud Engineer | AWS | DevOps</title>
+
+<meta name="description" content="Portfólio de Ana Paula Duarte - Cloud Engineer especializada em AWS, DevOps, Terraform, APIs e Arquitetura de Sistemas Escaláveis.">
+
+<meta name="keywords" content="Cloud Engineer, AWS Architecture, DevOps Engineer, Terraform, Docker, Kubernetes, CI/CD, Backend APIs, Data Engineering">
+
+<meta name="author" content="Ana Paula Duarte">
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+body{
+font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto;
+margin:0;
+background:#f7f7f7;
+color:#222;
+}
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:40px;
+}
+
+.hero{
+text-align:center;
+padding:80px 20px;
+background:white;
+}
+
+.hero h1{
+font-size:42px;
+margin-bottom:10px;
+}
+
+.hero p{
+font-size:18px;
+color:#555;
+}
+
+.buttons{
+margin-top:25px;
+}
+
+.btn{
+display:inline-block;
+padding:12px 20px;
+margin:5px;
+border-radius:8px;
+text-decoration:none;
+font-weight:600;
+}
+
+.btn-primary{
+background:#0a66c2;
+color:white;
+}
+
+.btn-dark{
+background:#333;
+color:white;
+}
+
+.section{
+margin-top:60px;
+}
+
+.section h2{
+font-size:26px;
+margin-bottom:20px;
+}
+
+.projects{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+gap:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.05);
+}
+
+.card h3{
+margin-top:0;
+}
+
+.tags span{
+background:#eee;
+padding:5px 10px;
+border-radius:6px;
+font-size:12px;
+margin-right:5px;
+}
+
+.deploy{
+margin-top:15px;
+display:inline-block;
+font-size:14px;
+}
+
+footer{
+text-align:center;
+margin-top:60px;
+padding:30px;
+color:#777;
+font-size:14px;
+}
+
+</style>
+
 </head>
 
 <body>
 
-  <h1>Olá, eu sou Ana Paula Duarte 👋</h1>
+<div class="hero">
 
-  <p>
-    <strong>Engenheira de Software Back-end Júnior (PCD)</strong>, com foco em
-    <strong>APIs REST</strong>, <strong>qualidade de código</strong> e
-    <strong>cloud computing (AWS/Azure)</strong>.
-  </p>
+<h1>Ana Paula Duarte</h1>
 
-  <p>
-    Atuo no desenvolvimento e evolução de sistemas back-end, aplicando boas práticas
-    de engenharia, aprendizado contínuo e colaboração em times ágeis.
-  </p>
+<p>
+Cloud Engineer | AWS | DevOps | Backend APIs | Data Engineering
+</p>
 
-  <div>
-    <span class="tag">Back-end</span>
-    <span class="tag">APIs REST</span>
-    <span class="tag">Cloud</span>
-    <span class="tag">AWS</span>
-    <span class="tag">Azure</span>
-    <span class="tag">CI/CD</span>
-    <span class="tag">Clean Code</span>
-    <span class="tag">Scrum</span>
-    <span class="tag">Kanban</span>
-  </div>
+<div class="buttons">
 
-  <div class="buttons">
-    <a href="cv_apduartte_pcd.pdf" target="_blank">📄 Currículo em PDF</a>
-    <a href="https://github.com/apduartte" target="_blank" class="secondary">💻 GitHub</a>
-    <a href="https://linkedin.com/in/ana-paula-l-duarte" target="_blank" class="secondary">🔗 LinkedIn</a>
-  </div>
+<a href="cv_apduartte_pcd.pdf" class="btn btn-primary">
+Currículo em PDF
+</a>
 
-  <section>
-    <h2>🚀 Projetos em Destaque</h2>
+<a href="https://github.com/apduartte" class="btn btn-dark">
+GitHub
+</a>
 
-    <p>
-      <strong>Foodtech – Fraud Alerts (Back-end)</strong><br />
-      Projeto de estudo focado em desenvolvimento de <strong>APIs REST</strong> e
-      <strong>regras de negócio</strong> para simulação de alertas de fraude.
-      <br />
-      🔗 <a href="https://github.com/apduartte/foodtech-fraud-alerts" target="_blank">
-        Ver no GitHub
-      </a>
-    </p>
+<a href="https://linkedin.com/in/ana-paula-l-duarte" class="btn btn-dark">
+LinkedIn
+</a>
 
-    <p>
-      <strong>Nextcloud – Projeto de Estudo em Cloud</strong><br />
-      Projeto pessoal inspirado no Nextcloud, com foco em
-      <strong>arquitetura</strong>, <strong>organização de back-end</strong> e
-      <strong>cloud computing</strong>.
-      <br />
-      🔗 <a href="https://github.com/apduartte/nextcloud" target="_blank">
-        Ver no GitHub
-      </a>
-    </p>
+</div>
 
-    <p>
-      <strong>AWS Practical Projects – RDS SQL Server</strong><br />
-      Projeto prático em AWS com foco em <strong>Amazon RDS (SQL Server)</strong>,
-      configuração de banco de dados gerenciado, segurança, conectividade e
-      boas práticas em ambiente cloud.
-      <br />
-      🔗 <a href="https://github.com/apduartte/aws-practical-projects/tree/master/rds-sqlserver" target="_blank">
-        Ver no GitHub
-      </a>
-    </p>
-  </section>
+</div>
 
-  <section>
-    <h2>🎓 Formação & Certificações</h2>
-    <ul>
-      <li>Pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity – PUC</li>
-      <li>Pós-graduação em Administração, Negócios e Marketing – FGV</li>
-      <li>Microsoft Azure Fundamentals (AZ-900)</li>
-    </ul>
-  </section>
+<div class="container">
 
-  <section>
-    <h2>♿ Informação Complementar</h2>
-    <p>
-      Pessoa com Deficiência (PCD), conforme Lei nº 8.213/91.
-      Laudo médico disponível.
-    </p>
-  </section>
+<div class="section">
 
-  <footer>
-    © 2026 · Ana Paula Duarte · Engenheira de Software Back-end
-  </footer>
+<h2>Sobre</h2>
+
+<p>
+Engenheira de TI com experiência em Cloud Computing, DevOps e automação de infraestrutura. Atuação em projetos com AWS, Terraform, CI/CD e APIs backend voltadas para escalabilidade, segurança e alta disponibilidade.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Cloud & DevOps Skills</h2>
+
+<div class="tags">
+
+<span>AWS</span>
+<span>Terraform</span>
+<span>Docker</span>
+<span>Kubernetes</span>
+<span>CI/CD</span>
+<span>GitHub Actions</span>
+<span>APIs REST</span>
+<span>Microservices</span>
+<span>Cloud Architecture</span>
+
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>Projetos Cloud</h2>
+
+<div class="projects">
+
+<div class="card">
+
+<h3>Fraud Detection API</h3>
+
+<p>
+API backend para simulação de alertas de fraude utilizando arquitetura cloud e boas práticas de APIs REST.
+</p>
+
+<a href="projects/fraud-api.html">
+Ver arquitetura
+</a>
+
+<br>
+
+<a href="https://github.com/apduartte" class="deploy">
+🚀 Deploy Architecture
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>Cloud Storage Platform</h3>
+
+<p>
+Ambiente de armazenamento cloud inspirado em Nextcloud utilizando infraestrutura provisionada com Terraform.
+</p>
+
+<a href="projects/cloud-storage.html">
+Ver arquitetura
+</a>
+
+<br>
+
+<a href="https://github.com/apduartte" class="deploy">
+Deploy Infrastructure
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>AWS Data Pipeline</h3>
+
+<p>
+Pipeline de processamento de dados utilizando S3, Lambda e banco de dados RDS.
+</p>
+
+<a href="projects/data-pipeline.html">
+Ver arquitetura
+</a>
+
+<br>
+
+<a href="https://github.com/apduartte" class="deploy">
+Deploy Pipeline
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>Arquitetura AWS</h2>
+
+<p>
+Projetos com foco em arquitetura escalável utilizando serviços cloud como EC2, S3, RDS, Lambda e VPC.
+</p>
+
+<img src="assets/arquitetura-aws.png" width="100%">
+
+</div>
+
+<div class="section">
+
+<h2>Certificações & Formação</h2>
+
+<ul>
+
+<li>Pós-graduação – Arquitetura de Software, Ciência de Dados e Cybersecurity – PUC</li>
+
+<li>Pós-graduação – Administração, Negócios e Marketing – FGV</li>
+
+<li>Microsoft Azure Fundamentals (AZ-900)</li>
+
+</ul>
+
+</div>
+
+<footer>
+
+© 2026 Ana Paula Duarte — Cloud Engineer Portfolio
+
+</footer>
+
+</div>
+
+<script src="script.js"></script>
 
 </body>
 </html>
